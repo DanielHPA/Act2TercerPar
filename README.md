@@ -12,8 +12,9 @@ Tailwind
 Instalación
 Clona el repositorio:
 
-git clone https://https://github.com/DanielHPA/Act2TercerPar
-cd whatsapp-clone
+git clone https://github.com/DanielHPA/Act2TercerPar
+
+cd 
 
 Instala las dependencias:
 
