@@ -14,7 +14,7 @@ Clona el repositorio:
 
 git clone https://github.com/DanielHPA/Act2TercerPar
 
-cd 
+cd /carpeta/Tutrabajo/
 
 Instala las dependencias:
 
