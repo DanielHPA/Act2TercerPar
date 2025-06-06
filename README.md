@@ -1,0 +1,28 @@
+Tecnologías usadas
+React:
+
+Node.js
+
+Express 
+
+Socket.IO 
+
+Tailwind 
+
+Instalación
+Clona el repositorio:
+
+git clone https://github.com/tuusuario/whatsapp-clone.git
+cd whatsapp-clone
+
+Instala las dependencias:
+
+npm install
+
+Inicia la aplicación:
+
+npm run start
+
+
+Opinion:
+Fue interesante el realizar esta actividad pues, desconocia que se podia llegar a hacer algo tan elaborado, me gusto.
